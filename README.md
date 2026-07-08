@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Subham Mishra
+**Junior Software Developer | Front-End Web Development**
 
-<!--
-**subhamMishra1412/subhamMishra1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent BSc Computer Science & Mathematics graduate specializing in building responsive, user-friendly web applications. Currently, I am actively seeking junior developer roles in Kathmandu and building my foundation in secure coding practices.
 
-Here are some ideas to get you started:
+**🛠️ Tech Stack**
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend/DB:** Firebase, SQL
+* **Tools:** GitHub, VS Code, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Featured Projects**
+* **[Marvel Maniacs](https://marvel-maniacs.vercel.app):** A responsive fan platform featuring a chronological movie catalogue. 
+* **Personal Portfolio:** A project showcasing high-performance UI animations driven by the GSAP library.
+
+⚡ **Fun fact:** When I'm not coding, you can usually find me analyzing Arsenal's latest Champions League match or reading up on tech news.
