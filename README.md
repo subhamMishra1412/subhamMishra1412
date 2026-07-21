@@ -102,6 +102,5 @@ When I'm not coding, you'll usually find me watching football, following Arsenal
 
 ### 📫 Connect with Me
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- Portfolio: *(Add your Portfolio URL)*
-- Email: *(Add your email)*
+- LinkedIn: www.linkedin.com/in/subhammishra1412
+- Email: subhammishra1412@gmail.com
