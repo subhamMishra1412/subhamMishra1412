@@ -1,4 +1,4 @@
-<h1 align="center">HII, I'M SUBHAM MISHRA 👋</h1>
+<h3 align="center">HII, I'M SUBHAM MISHRA 👋</h3>
 
 <p align="center">
 Junior Full-Stack Software Developer
