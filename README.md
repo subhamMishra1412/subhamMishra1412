@@ -1,3 +1,9 @@
-HI , I'M SUBHAM MISHRA
+<h1 align="center">Hi, I'm Subham Mishra 👋</h1>
+
+<p align="center">
 Junior Full-Stack Software Developer
-React | Node.js | Express.js | PostgreSQL | JavaScript
+</p>
+
+<p align="center">
+React | Node.js | Express.js | PostgreSQL | JavaScript | HTML | Tailwind CSS
+</p>
